@@ -1,4 +1,4 @@
-# Kapivara - Taskflow Scheduler Engine Library
+# Kapivara - Taskflow Scheduler Library
 
 Kapivara is a lightweight, coroutine-based job scheduler for Kotlin that integrates seamlessly with a rule engine DSL. Ideal for microservices, event-driven applications, and automation tools where you want to decouple scheduling logic from business rules.
 
